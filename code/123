@@ -1,0 +1,10 @@
+get public_html/personal.png
+open files.000webhost.com
+
+pub/example/WinFormClientSmall.png
+
+ftp://ftp.dlptest.com/foo.remote-copy.txt
+
+FTP User: dlpuser@dlptest.com
+Password: VADPRDqid4TaB0r5a2B0n9wLp
+get foo.remote-copy.txt
